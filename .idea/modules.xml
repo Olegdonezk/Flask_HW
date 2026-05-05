@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Community_pulse.iml" filepath="$PROJECT_DIR$/.idea/Community_pulse.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FlaskProject.iml" filepath="$PROJECT_DIR$/.idea/FlaskProject.iml" />
+>>>>>>> origin/main
     </modules>
   </component>
 </project>
